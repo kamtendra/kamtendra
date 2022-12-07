@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kamtendra Pratap Singh</h1>
 <h3 align="center">Backend Developer</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamtendra&label=Profile%20views&color=0e75b6&style=flat" alt="kamtendra" /> </p>
 <img align="right" width="300" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamtendra&label=Profile%20views&color=0e75b6&style=flat" alt="kamtendra" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamtendra" alt="kamtendra" /></a> </p>
 
 - 🌱 I’m currently learning **Django, Django REST Framework, Golang**
