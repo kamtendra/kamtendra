@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamtendra&label=Profile%20views&color=0e75b6&style=flat" alt="kamtendra" /> </p>
 
 
-- 🌱 I’m currently learning **Django, Django REST Framework, Golang**
+- 🌱 I’m currently learning **Flask and Docker**
 
 - 📫 How to reach me **skamtendra@gmail.com**
 
