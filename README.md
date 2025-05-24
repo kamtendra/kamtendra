@@ -1,15 +1,40 @@
-<h1 align="center">Hi 👋, I'm Kamtendra Pratap Singh</h1>
-<h3 align="center">Backend Developer</h3>
+<h1 align="center">Hi&nbsp;👋&nbsp;I'm Kamtendra&nbsp;Pratap&nbsp;Singh</h1>
+<h3 align="center">Associate Software Developer • Backend &amp; AI/ML Enthusiast</h3>
 
 <img align="right" width="300" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamtendra&label=Profile%20views&color=0e75b6&style=flat" alt="kamtendra" /> </p>
 
+<!-- ---------------------------------------------------------------- -->
+<!-- SUMMARY -->
+<!-- ---------------------------------------------------------------- -->
+- 🔭 I’m currently building intelligent automation &amp; multi-agent workflows at  
+<b>MyOperator – Associate Software Developer (July&nbsp;2024 → Present)</b>  
 
-- 🌱 I’m currently learning **Flask and Docker**
+- 🌱  Learning &amp; Experimenting with  
+LangChain • Vector DBs (FAISS/Pinecone) • LLMOps • AWS Bedrock • RAG pipelines  
+
+- 💬 Ask me about  
+Django • Flask • Celery • Docker • Nginx • Designing scalable APIs • AI/ML integrations
 
 - 📫 How to reach me **skamtendra@gmail.com**
 
 - 📄 Know about my experiences: [Resume]([shorturl.at/kJK57](https://drive.google.com/file/d/19U4Hws6a0qRQKPEFMKVJjb6rOrPEWqr8/view?usp=share_link))
+
+<!-- ---------------------------------------------------------------- -->
+<!-- EXPERIENCE SNAPSHOT -->
+<!-- ---------------------------------------------------------------- -->
+<b>Previous Internships</b>  
+• SDE Intern – MyOperator (Dec 2023 → Jun 2024)  
+• SDE Intern – Singular Intelligence (Jun 2023 → Oct 2023)  
+• SDE Intern – Alemeno (Mar 2023 → Jun 2023)  
+• Django Developer Intern – GlowbMo (Nov 2022 → Jan 2023)
+
+<!-- ---------------------------------------------------------------- -->
+<!--  PROJECTS -->
+<!-- ---------------------------------------------------------------- -->
+🚀 <strong>Highlighted Projects</strong>  
+• <a href="https://github.com/kamtendra/Tuberculosis-Detector" target="_blank">Tuberculosis Detector</a> – Real-time X-ray analysis using CNNs (Django + TensorFlow)  
+• <a href="https://github.com/kamtendra/News-Research-Tool" target="_blank">News Research Tool</a> – Ask questions on any article using LangChain + OpenAI + FAISS  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
